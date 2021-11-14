@@ -1,0 +1,7 @@
+caballo,horse
+sol,sun
+casa,house
+familia,family
+mundo,world
+carro,car
+playa,beach
